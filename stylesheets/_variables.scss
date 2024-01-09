@@ -1,0 +1,99 @@
+// Design-System-Color-Pairs
+
+$color-primary-light: #056ffa;
+$color-primary-dark: #056ffa;
+$color-success-light: #01bc6a;
+$color-success-dark: #01bc6a;
+$color-warning-light: #ffc814;
+$color-warning-dark: #ffc814;
+$color-error-light: #f84135;
+$color-error-dark: #f84135;
+$color-line-light: #eaecef;
+$color-line-dark: #474d57;
+$color-icon-light: #474d57;
+$color-icon-dark: #b7bdc6;
+$color-line-dark-main-window: #2b3139;
+
+/* for text colors */
+$color-text-primary-light: #1e2329;
+$color-text-primary-dark: #eaecef;
+$color-text-secondary-light: #474d57;
+$color-text-secondary-dark: #b7bdc6;
+$color-text-third-light: #848e9c;
+$color-text-third-dark: #848e9c;
+$color-text-disable-light: #b7bdc6;
+$color-text-disable-dark: #5e6673;
+$color-text-white-light: #ffffff;
+$color-text-white-dark: #ffffff;
+$color-text-black-light: #181a20;
+$color-text-black-dark: #181a20;
+$color-text-warning-light: #b06d00;
+$color-text-warning-dark: #ffc814;
+$color-text-error-light: #d9271e;
+$color-text-error-dark: #f84135;
+$color-text-success-light: #00764b;
+$color-text-success-dark: #01bc6a;
+$color-text-info-light: #056ffa;
+$color-text-info-dark: #82c1fc;
+$color-text-meeting-busy-light: #ae5004;
+$color-text-meeting-busy-dark: #ff8800;
+
+/* for background colors */
+$color-background-1-light: #ffffff;
+$color-background-1-dark: #181a20;
+$color-background-2-light: #fafafa;
+$color-background-2-dark: #1e2329;
+$color-background-3-light: #f5f5f5;
+$color-background-3-dark: #2b3139;
+$color-background-4-light: #eaecef;
+$color-background-4-dark: #474d57;
+$color-background-disable-light: #eaecef;
+$color-background-disable-dark: #474d57;
+$color-background-tooltip-light: #5e6673;
+$color-background-tooltip-dark: #5e6673;
+$color-background-modal-light: #ffffff;
+$color-background-modal-dark: #2b3139;
+$color-background-popup-light: #ffffff;
+$color-background-popup-dark: #1e2329;
+$color-background-sky-light: #ebf7ff;
+$color-background-sky-dark: #003366;
+$color-background-space-light: #001c4e;
+$color-background-space-dark: #000000;
+
+$text-font-size-100: 12px;
+$text-font-size-200: 14px;
+$text-font-size-300: 16px;
+$text-font-size-400: 20px;
+$text-font-size-500: 24px;
+$text-font-size-600: 28px;
+$text-font-size-700: 32px;
+
+$text-font-weight-thin: 100;
+$text-font-weight-light: 300;
+$text-font-weight-normal: 400;
+$text-font-weight-medium: 500;
+$text-font-weight-semi-bold: 600;
+$text-font-weight-extra-bold: 800;
+
+$radius-large: 8px;
+$radius-middle: 4px;
+$radius-small: 2px;
+$radius-circle: 50%;
+$radius-pill: 999px;
+
+$elevation-01-light: 0px 1px 2px 0px rgba(24, 26, 32, 0.04),
+  0px 3px 6px 0px rgba(71, 77, 87, 0.04), 0px 0px 1px 0px rgba(24, 26, 32, 0.1);
+$elevation-01-dark: 0px 1px 2px 0px rgba(0, 0, 0, 0.04),
+  0px 3px 6px 0px rgba(0, 0, 0, 0.04),
+  0px 0px 1px 0px rgba(94, 102, 115, 0.8) inset;
+$elevation-02-light: 0px 3px 6px 0px rgba(24, 26, 32, 0.08),
+  0px 7px 14px 0px rgba(71, 77, 87, 0.08), 0px 0px 1px 0px rgba(24, 26, 32, 0.1);
+$elevation-02-dark: 0px 3px 6px 0px rgba(0, 0, 0, 0.08),
+  0px 7px 14px 0px rgba(0, 0, 0, 0.08),
+  0px 0px 1px 0px rgba(94, 102, 115, 0.9) inset;
+$elevation-03-light: 0px 8px 16px 0px rgba(24, 26, 32, 0.16),
+  0px 16px 32px 0px rgba(71, 77, 87, 0.16),
+  0px 0px 1px 0px rgba(24, 26, 32, 0.1);
+$elevation-03-dark: 0px 8px 16px 0px rgba(0, 0, 0, 0.16),
+  0px 16px 32px 0px rgba(0, 0, 0, 0.16),
+  0px 0px 1px 0px rgba(94, 102, 115, 0.9) inset;

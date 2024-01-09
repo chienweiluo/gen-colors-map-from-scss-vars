@@ -1,0 +1,16 @@
+{
+  "name": "gen-colors-map-from-scss-vars",
+  "version": "1.0.0",
+  "scripts": {
+    "gen-colors-map-from-scss-vars": "node ./src/index.js"
+  },
+  "main": "index.js",
+  "author": "kayne-luo",
+  "license": "MIT",
+  "dependencies": {
+    "dayjs": "^1.11.10",
+    "fs": "^0.0.1-security",
+    "node-sass": "^9.0.0",
+    "path": "^0.12.7"
+  }
+}
